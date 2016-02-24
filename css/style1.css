@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Playfair+Display+SC:400italic,700,900|Raleway:500|Martel+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:300);
 @font-face {
   font-weight: normal;
   font-style: normal;
@@ -25,7 +25,7 @@ body {
   color: #7b7b7b;
   font-weight: 400;
   font-size: 16px;
-  font-family: "Martel Sans", Arial, sans-serif;
+  font-family: "Fira Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow: hidden;
