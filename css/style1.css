@@ -335,7 +335,7 @@ button:focus {
 .title {
   margin: 0;
   font-size: 1.875em;
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
   text-align: center;
 }
 
@@ -387,7 +387,7 @@ button:focus {
   position: relative;
   font-size: 0.95em;
   font-style: italic;
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
   text-align: center;
   display: block;
 }
@@ -681,7 +681,7 @@ button:focus {
   font-style: italic;
   float: left;
   margin: 0 5px;
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
 }
 .meta--full .meta__category::before {
   content: "in ";
